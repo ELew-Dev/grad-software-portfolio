@@ -5,7 +5,7 @@ Welcome to my portfolio repository, showcasing coursework and projects from my M
 
 ## 📚 Courses  
 
-- **[Course One](CourseOne/): Basic Programming and Discrete Mathematics**  
+- **[Course One](Course%20One/): Basic Programming and Discrete Mathematics**  
   - Fundamentals of programming and discrete mathematical principles essential for software engineering.  
 
 - **[Course Two](CourseTwo/): Foundations of Programming**  
